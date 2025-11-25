@@ -1,0 +1,80 @@
+{
+  "employees": [
+    {
+      "name": "John Doe",
+      "department": "Engineering",
+      "role": "Frontend Developer",
+      "joiningDate": "2023-01-15",
+      "status": "Active",
+      "performance": 45,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "department": "Marketing",
+      "role": "Marketing Manager",
+      "status": "Active",
+      "joiningDate": "2022-11-01",
+      "archived": false,
+      "performance": 92
+    },
+    {
+      "id": "3",
+      "name": "Michael Brown",
+      "department": "Engineering",
+      "role": "Backend Developer",
+      "status": "Active",
+      "joiningDate": "2021-08-20",
+      "archived": false,
+      "performance": 78
+    },
+    {
+      "id": "4",
+      "name": "Emily Johnson",
+      "department": "HR",
+      "role": "HR Specialist",
+      "status": "Active",
+      "joiningDate": "2023-03-10",
+      "archived": false,
+      "performance": 88
+    },
+    {
+      "id": "5",
+      "name": "David Lee",
+      "department": "Sales",
+      "role": "Sales Executive",
+      "status": "Active",
+      "joiningDate": "2022-05-05",
+      "archived": false,
+      "performance": 80
+    },
+    {
+      "name": "Helen Baker",
+      "department": "Engineering",
+      "role": "Assistant Manager",
+      "joiningDate": "2023-11-23",
+      "status": "Active",
+      "performance": 75,
+      "id": "1dd0"
+    },
+    {
+      "name": "Sherlock Holmes",
+      "department": "Engineering",
+      "role": "Assistant Manager",
+      "joiningDate": "2023-11-30",
+      "status": "Active",
+      "performance": 85,
+      "id": "e0aa"
+    },
+    {
+      "name": "Helen Baker",
+      "department": "Sales",
+      "role": "Executive",
+      "joiningDate": "2023-11-23",
+      "status": "Active",
+      "performance": 40,
+      "id": "fbb6"
+    }
+  ]
+}
